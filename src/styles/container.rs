@@ -1,0 +1,1 @@
+// pub fn bg1(mut self, style: impl Fn(&Theme, Status) -> Style + 'a) -> Self
