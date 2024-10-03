@@ -1,2 +1,2 @@
 # cryptographer-rs
-A crypographic application built with iced
+A work in progress crypographic application built with iced
